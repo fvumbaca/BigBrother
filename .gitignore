@@ -41,3 +41,4 @@ Temporary Items
 
 # Ignore Grafana data
 grafana-data
+grafana-plugins
